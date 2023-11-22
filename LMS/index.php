@@ -66,13 +66,13 @@ include 'private/validity1.php';
 				<input type="text" Name="PhoneNumber" placeholder="Phone Number" required>
 				<input type="text" Name="RollNo" placeholder="ID Number" required="">
 				
-				<select name="Category" id="Category" style="background-color: dimgray; opacity:0.2;">
+				<select name="Category" id="Category" style="background-color: dimgray; opacity:0.5;">
 					<option value="Student">Student</option>
 					<option value="Faculty">Faculty</option>
 					<option value="Staff">Staff</option>
 					
 				</select>
-				<select name="Department" id="Category" style="background-color: dimgray; opacity: 0.2;">
+				<select name="Department" id="Category" style="background-color: dimgray; opacity: 0.5;">
 					<option value="Compstud">Compstud</option>
 					<option value="Education">Education</option>
 					<option value="Agriculture">Agriculture</option>
