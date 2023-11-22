@@ -76,8 +76,10 @@ include 'private/validity1.php';
 					<option value="Compstud">Compstud</option>
 					<option value="Education">Education</option>
 					<option value="Agriculture">Agriculture</option>
-					 <option value="Jr.HighSchool">Jr.HighSchool</option>
-           <option value="Sr.HighSchool">Sr.HighSchool</option>
+					<option value="Primary.School">Primary.School</option>
+					<option value="Jr.HighSchool">Jr.HighSchool</option>
+					<option value="Sr.HighSchool">Sr.HighSchool</option>
+
 					
 				</select>
 				<br>
