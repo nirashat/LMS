@@ -93,6 +93,7 @@ $sql = "SELECT * FROM student WHERE id = '$id' ";
               <option value="Computer Studies"<?php echo ($row['DEPARTMENT']== "Computer Studies" )? 'selected': '';?>>Computer Studies</option>
               <option value="Education"<?php echo ($row['DEPARTMENT']== "Education" )? 'selected': '';?>>Education</option>
               <option value="Agriculture"<?php echo ($row['DEPARTMENT']== "Argiculture" )? 'selected': '';?>>Argiculture</option>
+              <option value="Primary.School"<?php echo ($row['DEPARTMENT']== "Primary.School" )? 'selected': '';?>>Primary.School</option>
               <option val ue="Jr.High School"<?php echo ($row['DEPARTMENT']== "Jr.High School" )? 'selected': '';?>>Jr.High School</option>
               <option value="Sr.High School"<?php echo ($row['DEPARTMENT']== "Sr.High School" )? 'selected': '';?>>Sr.High School</option>              
             </select>
