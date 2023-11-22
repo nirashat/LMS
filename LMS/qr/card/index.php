@@ -250,6 +250,7 @@ else{
               <option value="Computer Studies">Computer Studies</option>
               <option value="Education">Education</option>
               <option value="Agriculture">Argiculture</option>
+              <option value="Primary.School">Primary.School</option>
               <option val ue="Jr.High School">Jr.High School</option>
               <option value="Sr.High School">Sr.High School</option>  
         </select>
