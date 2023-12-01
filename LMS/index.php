@@ -28,7 +28,7 @@ include 'private/validity1.php';
 	<!-- Style --> <link rel="stylesheet" href="css/style.css" type="text/css" media="all">
 
 	<!-- Fonts -->
-		<link href="//fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
 	<!-- //Fonts -->
 
 </head>

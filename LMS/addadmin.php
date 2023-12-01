@@ -21,7 +21,7 @@ require('dbconn.php');
     <!-- Style --> <link rel="stylesheet" href="css/style.css" type="text/css" media="all">
 
     <!-- Fonts -->
-        <link href="//fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
     <!-- //Fonts -->
 
 </head>
@@ -59,7 +59,7 @@ require('dbconn.php');
                 <input type="text" Name="PhoneNumber" placeholder="Phone Number" required>
                 <input type="text" Name="RollNo" placeholder="ID Number" required="">
                 
-                <select name="Category" id="Category">
+                <select name="Category" id="Category" style="background-color: dimgray; opacity: 0.5;">
                     <option value="Admin">Admin</option>
                    
                     
