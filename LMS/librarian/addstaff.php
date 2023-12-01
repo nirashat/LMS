@@ -31,7 +31,7 @@ require('dbconn.php');
 <body>
 <style>
 body{
-background-color: #808080;
+background-color: #008000;
 
 
 }
@@ -72,12 +72,13 @@ background-color: #808080;
 				<input type="text" Name="PhoneNumber" placeholder="Phone Number" required>
 				<input type="text" Name="RollNo" placeholder="ID Number" required="">
 				
-				<select name="Category" id="Category">
+				<select name="Category" id="Category" style="background-color: dimgray; opacity: 0.5;">
 					<option value="Librarian">Librarian</option>
 					<option value="Lirbary Staff ">Library Staff </option>
 					
 					
 				</select>
+				<br>
 				<br>
 				<p><input type="checkbox">By creating an account, you agree to our <a class="underline" href="terms.html">Terms</a></p>
 					
