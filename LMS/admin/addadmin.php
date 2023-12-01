@@ -32,7 +32,7 @@ require('dbconn.php');
 		<style>
 
 		body{
-			background-color: #808080;
+			background-color: #008000;
 
 
 		}

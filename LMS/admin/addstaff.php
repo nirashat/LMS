@@ -31,7 +31,7 @@ require('dbconn.php');
 	<body>
 		<style>
 		body{
-			background-color: #808080;}
+			background-color: #008000;}
 		
 		</style>
 		<h1>LIBRARY MANAGEMENT </h1>
@@ -69,7 +69,7 @@ require('dbconn.php');
 					<input type="text" Name="PhoneNumber" placeholder="Phone Number" required>
 					<input type="text" Name="RollNo" placeholder="ID Number" required="">
 					
-					<select name="type" id="Category" style="background-color: dimgrey; opacity: 0.2;">
+					<select name="type" id="Category" style="background-color: dimgrey; opacity: 0.5;">
 						<option value="librarian">Librarian</option>
 						<option value="staff ">Library Staff </option>
 						
