@@ -132,7 +132,7 @@ CREATE TABLE `tbl` (
   `BookId` int(11) NOT NULL,
   `deletor` varchar(255) NOT NULL,
   `item` varchar(255) NOT NULL,
-  `date` timestamp NOT NULL DEFAULT current_timestamp() ON UPDATE current_timestamp()
+  `date_deleted` timestamp NOT NULL DEFAULT current_timestamp() ON UPDATE current_timestamp()
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 -- --------------------------------------------------------
